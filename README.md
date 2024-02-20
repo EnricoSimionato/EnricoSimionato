@@ -13,8 +13,8 @@ Get in touch with me on [linkedin](www.linkedin.com/in/enrico-simionato-5791b919
 
 
 <br/>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+<a href="https://github.com/EnricoSimionato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoSimionato&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoSimionato&theme=buefy&layout=compact" />
 </a>
 
