@@ -8,8 +8,12 @@ I like sports, especially when it comes to football!
 
 So, if you're into AI, tech, or just want to chat about sports, feel free to check out my GitHub and drop me a line. Let's learn and explore together!
 
-Get in touch with me on [linkedin](www.linkedin.com/in/enrico-simionato-5791b919b)
+Get in touch with me:
+[linkedin](www.linkedin.com/in/enrico-simionato-5791b919b)
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/enrico-simionato-5791b919b"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
 
 
 <br/>
