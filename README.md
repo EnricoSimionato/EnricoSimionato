@@ -7,5 +7,15 @@ I'm into AI and all things tech-related, especially digging into natural languag
 I like sports, especially when it comes to football!
 
 So, if you're into AI, tech, or just want to chat about sports, feel free to check out my GitHub and drop me a line. Let's learn and explore together!
-Reach me on linkedin: [linkedIn profile](www.linkedin.com/in/enrico-simionato-5791b919b)
 
+Get in touch with me on [linkedin](www.linkedin.com/in/enrico-simionato-5791b919b)
+
+
+
+<br/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoSimionato&theme=buefy&layout=compact" />
+</a>
+
+<br/>
