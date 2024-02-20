@@ -14,8 +14,8 @@ Get in touch with me on [linkedin](www.linkedin.com/in/enrico-simionato-5791b919
 
 <br/>
 <a href="https://github.com/EnricoSimionato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoSimionato&&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoSimionato&theme=buefyshow_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoSimionato&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoSimionato&show_icons=true&theme=dark" />
 </a>
 
 <br/>
