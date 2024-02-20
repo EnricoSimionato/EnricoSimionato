@@ -8,7 +8,9 @@
 - ⚽ I like sports, especially when it comes to football!
   
 <h2 align="left">Get in touch with me</h2>
-![Static Badge](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/enricosimionato)
+![Static Badge](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+(https://t.me/enricosimionato)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-simionato-5791b919/)
 
 <h2 align="left">Stats on GitHub</h2>
