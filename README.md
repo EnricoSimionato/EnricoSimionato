@@ -1,4 +1,4 @@
-#### I'm Enrico Simionato
+<h1 align="left">Hi I'm Enrico Simionato 👋</h1>
 
 I'm studying computer science with a focus on artificial intelligence at [Politecnico di Milano](https://www.polimi.it).
 
