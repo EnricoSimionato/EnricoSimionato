@@ -10,7 +10,7 @@
 
 - ⚽ I like sports, especially when it comes to football!
   
-<h2 align="left">Get in touch with me</h2>
+<h2 align="left">Get in touch</h2>
 
 <a href="https://github.com/EnricoSimionato">  
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enricosimionato)
