@@ -14,12 +14,3 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enricosimionato)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-simionato)
 [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EnricoSimionato)
-
-
-<h2 align="left">Stats on GitHub 📊</h2>
-<br/>
-<a href="https://github.com/EnricoSimionato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoSimionato&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoSimionato&show_icons=true&theme=dark&layout=compact"/>
-</a>
-<br/>
