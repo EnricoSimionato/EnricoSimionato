@@ -4,8 +4,8 @@
 
 - 🎓 I completed both my bachelor’s and master’s in Computer Science and Engineering at Politecnico di Milano, focusing on Artificial Intelligence.
 
-- 🔭 I'm into AI and all tech-related things, especially digging into natural language processing right now. That's all about teaching computers to understand and generate human language! Who wouldn't want to talk to their computer?
-
+- 🔭 I'm into AI and all tech-related things, especially digging into natural language processing right now.
+  
 - ⚽ I like sports, especially when it comes to football!
 
   
